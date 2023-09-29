@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PersonalMemo/static/css/main.5c970a61.chunk.css",
+    "main.js": "/PersonalMemo/static/js/main.60a1ed11.chunk.js",
+    "main.js.map": "/PersonalMemo/static/js/main.60a1ed11.chunk.js.map",
+    "runtime-main.js": "/PersonalMemo/static/js/runtime-main.c82d1fb2.js",
+    "runtime-main.js.map": "/PersonalMemo/static/js/runtime-main.c82d1fb2.js.map",
+    "static/js/2.802efc07.chunk.js": "/PersonalMemo/static/js/2.802efc07.chunk.js",
+    "static/js/2.802efc07.chunk.js.map": "/PersonalMemo/static/js/2.802efc07.chunk.js.map",
+    "index.html": "/PersonalMemo/index.html",
+    "static/css/main.5c970a61.chunk.css.map": "/PersonalMemo/static/css/main.5c970a61.chunk.css.map",
+    "static/js/2.802efc07.chunk.js.LICENSE.txt": "/PersonalMemo/static/js/2.802efc07.chunk.js.LICENSE.txt",
+    "static/media/delete.e9c43216.svg": "/PersonalMemo/static/media/delete.e9c43216.svg",
+    "static/media/plus.9c36aac3.png": "/PersonalMemo/static/media/plus.9c36aac3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82d1fb2.js",
+    "static/js/2.802efc07.chunk.js",
+    "static/css/main.5c970a61.chunk.css",
+    "static/js/main.60a1ed11.chunk.js"
+  ]
+}
